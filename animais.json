@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Rolinha Diamante",
+    "description": "Filhote de rolinha diamante resgatado de um formigueiro. Tal acontecimento deu nome ao pet, conhecido como Chupeta de Formiga.",
+    "image": "https://i.ytimg.com/vi/3rx7yGJlY9Q/maxresdefault.jpg",
+    "location": {
+      "latitude": -21.7857368,
+      "longitude": -48.2095145
+    },
+    "contact": {
+      "name": "Venilton",
+      "phone": "+55 016997218281"
+    }
+  },
+  
+  {
+    "title": "Laikinha Jr. ",
+    "description": "Uma cachorrinha que foi adotada e salva de ir para o espaço",
+    "image": "https://img.r7.com/images/laika-sofrimento-espaco-uniao-sovietica-30092020175459798?dimensions=771x420&no_crop=true",
+    "location": {
+      "latitude": -21.137936970944608,
+      "longitude": -48.97441054687582
+    },
+    "contact": {
+      "name": "Lara",
+      "phone": "+55 016997218281"
+    }
+  },
+
+  {
+    "title": "Gata Maria ",
+    "description": "Gatinha resgatada em uma noite de chuva",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffolhago.com.br%2Fblogs-colunas%2Fpets%2Fgato-frajola-e-uma-raca-de-felino-entenda-mais-sobre-os-gatos-preto-e-branco%2F2147459059%2F&psig=AOvVaw1Bw_YHyBRatTNVVXAoH86E&ust=1654291628050000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjC79faj_gCFQAAAAAdAAAAABAP",
+    "location": {
+      "latitude": -21.42999411487333, 
+      "longitude":-48.515252816181494
+    }, 
+    "contact": {
+      "name": "Diego",
+      "phone": "+55 016997218281"
+    }
+  },
+
+    {
+    "title": "Snoop ",
+    "description": "Um cachorrinho bravo mas com um coração gigante. Resgatado das ruas em uma noite fria",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.petiko.com.br%2F10-provas-que-o-pinscher-e-o-melhor-cao-de-guarda%2F&psig=AOvVaw0UnDCqgxRgWmlKxaEXp2Oj&ust=1654291695622000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDApPjaj_gCFQAAAAAdAAAAABAD",
+    "location": {
+      "latitude": -21.7857368,
+      "longitude": -48.2095145
+    },
+    "contact": {
+      "name": "Nakamura",
+      "phone": "+55 016997218281"
+    }
+  },
+
+  {
+    "title": "Felipe ",
+    "description": "Um cachorro que foi transportado para outra cidade por ser muito arteiro. Buscamos ele de volta e agora está para adoção",
+    "image": "https://static1.patasdacasa.com.br/articles/9/33/59/@/13445-os-filhotes-de-vira-lata-precisam-de-cui-articles_media_mobile-2.jpg",
+    "location": {
+      "latitude": -21.146414933172903,
+      "longitude": -48.94617681803965
+    },
+    "contact": {
+      "name": "Renan",
+      "phone": "+55 016997218281"
+    }
+  },
+
+    {
+    "title": "Bolt ",
+    "description": "O cachorro mais arteiro e veloz de Santa Adelia e Região",
+    "image": "https://www.losanimales.org/wp-content/uploads/2018/03/Whippet.jpg",
+    "location": {
+      "latitude": -21.245207127934144,
+      "longitude": -48.80869127345795
+    },
+    "contact": {
+      "name": "Bruno",
+      "phone": "+55 016997818281"
+    }  
+  }
+
+  
+]
+
